@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/GuardiasAPI.Jobs.Models/bin/Debug
+/GuardiasAPI.Jobs.Models/obj/Debug/netcoreapp2.2
+/GuardiasAPI.Jobs.Models/obj
+/GuardiasAPI_Jobs/bin/Debug/netcoreapp2.2
+/GuardiasAPI_Jobs/obj
